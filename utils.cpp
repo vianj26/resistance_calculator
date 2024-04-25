@@ -15,6 +15,7 @@ Resistor Resistor::operator &(Resistor resistor)
 
     return result;
     
+    
 } 
 
 Resistor Resistor::operator ||(Resistor resistor)
